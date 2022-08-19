@@ -1,1 +1,1 @@
-# Classification
+The code is to set up an ensemble starter Notebook and Resampling notebook which would of been used build several machine learning models using x and y testing which would be used to determine credi risk and use th emodels to determine an inbalance 
